@@ -1,0 +1,10 @@
+# File hasil kompilasi Java
+out/
+*.class
+
+# File konfigurasi VS Code pribadi
+.vscode/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
