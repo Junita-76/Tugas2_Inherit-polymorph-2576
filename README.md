@@ -71,7 +71,6 @@ Tugas2_Inherit-polymorph-2576/
 │       ├── Keranjang.java
 │       └── TesSoal4.java
 │
-├── out/
 ├── README.md
 └── .gitignore
 
